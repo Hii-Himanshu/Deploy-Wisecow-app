@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: wisecow-container
-        image: hustlerhimanshu/wisecow:v4
+        image: hustlerhimanshu/wisecow:sha-fea4c679c833cbcfec1b84651e80b151d6c84cca
         ports:
         - containerPort: 4499
